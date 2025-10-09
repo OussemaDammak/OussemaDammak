@@ -35,4 +35,4 @@
 
 ### ⚙️ &nbsp;Profile Views
 
-![](https://komarev.com/ghpvc/?username=OussemaDammak)
+![](https://komarev.com/ghpvc/?username=OussemaDammak&style=for-the-badge&color=5CB338)
