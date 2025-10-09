@@ -4,7 +4,7 @@
 
 &nbsp;I'm a backend developer and security analyst building my path into great success.\
 ✉️ &nbsp;You can send me an email at oussemadammak01@gmail.com!\
-📄 &nbsp;Please have a look at my [Resume](https://www.github.com) for more details .
+📄 &nbsp;Please have a look at my [Resume](https://www.github.com) for more details .\
 🎓 &nbsp;Top 1% on TryHackMe
 
 
