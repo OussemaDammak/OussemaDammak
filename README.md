@@ -1,12 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-
-
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Backend Developer | Security Analyst</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
-### 👨🏻‍💻 &nbsp;About Me
 
 &nbsp;I'm a backend developer and security analyst building my path into great success.\
 ✉️ &nbsp;You can send me an email at oussemadammak01@gmail.com!\
